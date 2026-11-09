@@ -1,4 +1,4 @@
-BMEN35 Data-driven health 2026 :: Session 2
+**BMEN35 Data-driven health 2026 :: Session 2**
 
 This folder contains notebooks on linear regression, logistic regression and some metrics. 
 
